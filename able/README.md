@@ -31,9 +31,16 @@ credential discovery, and Linux privilege escalation using capabilities.
 ## File & Group Analysis
 - The FTP file belonged to the **sysadmins** group
 - Additional files owned by this group were identified in system directories
+- - Files belonging to the **sysadmins** group were located under the `/configs` directory
+- A VPN configuration file related to the admin user was identified during enumeration
 
 ---
+## Configuration & Credential Discovery
+- Group-based file enumeration revealed configuration files under `/configs`
+- A VPN configuration file belonging to the **admin** user was identified
+- The file contained network-related information used during the lab
 
+---
 ## Privilege Escalation
 - System capabilities were enumerated using `getcap`
 - The binary **python3.9** was found to have the `cap_setuid` capability
