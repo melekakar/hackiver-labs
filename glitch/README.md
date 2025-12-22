@@ -50,6 +50,7 @@ privilege escalation techniques.
 This content is shared strictly for **educational purposes**.
 No sensitive data, credentials, hashes, or exploit source code are included.
 
+- Glitch – RCE & Linux Privilege Escalation (Dirty Pipe)
 ---
 Author: Melek Akar  
 Platform: Hackviser  
