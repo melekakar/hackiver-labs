@@ -53,6 +53,7 @@ credential discovery, and Linux privilege escalation using capabilities.
 This write-up is shared strictly for **educational purposes**.
 No credentials, configuration files, or sensitive data are disclosed.
 
+- Able (Warm-up) – FTP Information Disclosure & Linux Capabilities
 ---
 Author: Melek Akar  
 Platform: Hackviser  
