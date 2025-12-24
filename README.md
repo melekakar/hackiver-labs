@@ -26,6 +26,7 @@ This repository includes labs and write-ups related to:
 | Lab Name | Description |
 |--------|------------|
 | **Able (Warm-up)** | FTP Information Disclosure & Linux Privilege Escalation |
+| **Moonshade** | SMB enumeration, SAM dump, NTLM cracking, RDP access and local privilege escalation |
 
 ---
 
