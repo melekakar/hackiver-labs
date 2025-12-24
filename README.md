@@ -20,13 +20,18 @@ This repository includes labs and write-ups related to:
 - Ethical penetration testing (lab environments only)
 
 ---
-
 ## Labs Overview
 
 | Lab Name | Description |
-|--------|------------|
-| **Able (Warm-up)** | FTP Information Disclosure & Linux Privilege Escalation |
+| -------- | ----------- |
+| **Able (Warm-up)** | FTP information disclosure, anonymous access abuse and Linux privilege escalation |
+| **Quenvovia (Warm-up)** | File upload abuse leading to remote code execution |
 | **Moonshade** | SMB enumeration, SAM dump, NTLM cracking, RDP access and local privilege escalation |
+| **Glitch** | Web application logic flaw exploitation |
+| **File Upload RCE** | Unrestricted file upload vulnerability exploitation |
+| **LFI & Log Poisoning** | Local File Inclusion combined with log poisoning for RCE |
+| **SQL Injection** | SQL injection vulnerability identification and exploitation |
+| **Supervisor XML-RPC RCE** | Remote command execution via misconfigured Supervisor XML-RPC service |
 
 ---
 
